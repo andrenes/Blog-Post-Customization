@@ -1,0 +1,11 @@
+/*
+Theme Name: Twenty Seventeen child theme
+Description: A child theme of Twentyseventeen
+Author: Andrés Meneses
+Author URI: https://andrenes.github.io/
+Template: twentyseventeen
+Version: 0.1.0
+*/
+
+@import url("../twentyseventeen/style.css")
+
